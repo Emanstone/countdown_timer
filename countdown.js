@@ -1,5 +1,5 @@
 // Declaring the target date
-const countDownDate = new Date("Oct 8, 2024 00:00:00").getTime();
+const countDownDate = new Date("Jan 30, 2024 00:00:00").getTime();
 
 // calculating the time remaining till target date.
 const x = setInterval(() => {         //sets up an interval that runs the () every sec.
