@@ -96,6 +96,10 @@
     padding-right: 70px;
 }
 
+.party-time div span{
+    padding-left: 10px;
+}
+
 
 .party-time div p{
     font-size: 60px;
